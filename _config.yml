@@ -2,5 +2,5 @@ name: Ari Jain
 markdown: redcarpet
 pygments: true
 description: "Personal website of Ari ( Aaryan ) Jain
-url: "www.aaryanjain.xyz"
+url: "aaryanjain.github.io"
 permalink: /posts/:title
